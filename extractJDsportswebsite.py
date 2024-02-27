@@ -10,7 +10,7 @@ import pandas as pd
 
 
 # In[8]:
-
+#Assign URL 
 
 URL ="https://www.jdsports.ie/men/mens-clothing/"
 
